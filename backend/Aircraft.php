@@ -7,8 +7,5 @@ class Aircraft {
         
     }
 
-    public function lidot() {
-
-    }
 }
 
